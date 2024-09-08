@@ -2,5 +2,5 @@
 Churn Modelling
 
 </div>
-  <img src="Churn_Modelling.png" width=40%>
+  <img src="Churn_Modelling.png" width=60%>
 </div>
